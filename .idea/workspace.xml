@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="221b34a0-fea1-4652-963e-2faa78a5b7f6" name="Changes" comment="A comparison function. Testing">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Casting.kt" afterDir="false" />
+    <list default="true" id="221b34a0-fea1-4652-963e-2faa78a5b7f6" name="Changes" comment="Collection stuff">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collection.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Input.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Comparison.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Comparison.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667384417270</updated>
       <workItem from="1667384419454" duration="179000" />
-      <workItem from="1667384633502" duration="7896000" />
+      <workItem from="1667384633502" duration="8228000" />
     </task>
     <task id="LOCAL-00001" summary="Amended my Main function">
       <created>1667386804247</created>
@@ -122,7 +119,35 @@
       <option name="project" value="LOCAL" />
       <updated>1667396523725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Casting in Kotlin example">
+      <created>1667400062998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400062998</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Basic input">
+      <created>1667400180683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400180683</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactored comparison">
+      <created>1667400208272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400208272</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Collection stuff">
+      <created>1667400222043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667400222043</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +168,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Amended my Main function" />
     <MESSAGE value="A comparison function. Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="A comparison function. Testing" />
+    <MESSAGE value="Casting in Kotlin example" />
+    <MESSAGE value="Basic input" />
+    <MESSAGE value="Refactored comparison" />
+    <MESSAGE value="Collection stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection stuff" />
   </component>
 </project>
