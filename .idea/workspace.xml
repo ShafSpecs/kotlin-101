@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="221b34a0-fea1-4652-963e-2faa78a5b7f6" name="Changes" comment="">
+    <list default="true" id="221b34a0-fea1-4652-963e-2faa78a5b7f6" name="Changes" comment="Amended my Main function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Comparison.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -41,7 +42,14 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.ComparisonKt">
+    <configuration name="ComparisonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparisonKt" />
+      <module name="Kotlin-101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="Kotlin-101" />
@@ -51,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ComparisonKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -64,8 +73,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667384417270</updated>
       <workItem from="1667384419454" duration="179000" />
-      <workItem from="1667384633502" duration="1952000" />
+      <workItem from="1667384633502" duration="4508000" />
     </task>
+    <task id="LOCAL-00001" summary="Amended my Main function">
+      <created>1667386804247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667386804247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Amended my Main function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amended my Main function" />
   </component>
 </project>
