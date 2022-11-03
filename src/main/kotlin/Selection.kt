@@ -39,4 +39,11 @@ fun main() {
         'A', 'E', 'I', 'O', 'U' -> println("$ch is a vowel letter")
         else -> println("$ch is a cosnstant")
     }
+
+    val a = 100
+
+    when(a) {
+        in 1..10 -> println("+ve number less than 11")
+        in 10..100 -> println("+ve number between 10 and 100 (inclusive)")
+    }
 }
